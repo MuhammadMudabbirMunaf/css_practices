@@ -1,0 +1,19 @@
+Styling With CSS
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: darkseagreen;
+}
+
+b {
+    color: brown;
+    font-size: larger;
+}
+
+i {
+    color: darkmagenta;
+    font-size: larger;
+}
+
+p {
+    font-weight: 200;
+}
